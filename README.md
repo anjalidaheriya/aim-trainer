@@ -9,7 +9,9 @@ A simple and interactive Aim Trainer game built using the pygame library in Pyth
 🎨 Simple, customizable UI
 
 📦 Built With
+
 Python 3
+
 Pygame
 
 🧠 Learning Goals
